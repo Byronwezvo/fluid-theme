@@ -1,0 +1,21 @@
+{
+    "name": "fluid-theme",
+    "displayName": "fluid-theme",
+    "description": "Theme developed by Byron Wezvo",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fluid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fluid-color-theme.json"
+            }
+        ]
+    }
+}
